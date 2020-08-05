@@ -12,6 +12,7 @@ with the FAR-F5Q or F6Q series.
 
 The PCB is designed to fit the Crystek SMA-KIT-1.5MF housing.
 
+```
 order of copper layers:
     Copper 1:  F (front)
     Copper 2:  In1
@@ -32,5 +33,6 @@ double side solder mask green
 double side silkscreen white
 7 mil minimum trace width
 5 mil minimum isolation
+```
 
 PCBs of this specification are available from JLCPCB (JLC7628 4-layer 0.8 mm stackup).
