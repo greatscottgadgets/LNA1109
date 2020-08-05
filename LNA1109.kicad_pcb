@@ -11,7 +11,7 @@
 
   (page A4)
   (title_block
-    (title LNAF5Q)
+    (title LNA1109)
     (date 2020-08-05)
     (company "Copyright (c) 2014-2020 Great Scott Gadgets <info@greatscottgadgets.com>")
     (comment 1 "Licensed under the CERN-OHL-P v2")
@@ -903,7 +903,7 @@
   (gr_text 05 (at 135.19 103.8) (layer F.SilkS) (tstamp 5F2830EF)
     (effects (font (size 0.6 0.5) (thickness 0.1)))
   )
-  (gr_text LNAF5Q (at 132.72 96.74) (layer B.SilkS) (tstamp 5F26B2A6)
+  (gr_text LNA1109 (at 132.72 96.74) (layer B.SilkS) (tstamp 5F26B2A6)
     (effects (font (size 1.2 1) (thickness 0.2)) (justify mirror))
   )
   (gr_line (start 126.1 100) (end 127.6 100) (layer B.SilkS) (width 0.15))
@@ -921,7 +921,7 @@
   (gr_text 08 (at 133.18 103.78) (layer F.SilkS) (tstamp 5EF09D84)
     (effects (font (size 0.6 0.5) (thickness 0.1)))
   )
-  (gr_text LNAF5Q (at 127.39 96.44) (layer F.SilkS) (tstamp 5F282C06)
+  (gr_text LNA1109 (at 127.39 96.44) (layer F.SilkS) (tstamp 5F282C06)
     (effects (font (size 0.6 0.5) (thickness 0.1)))
   )
   (gr_line (start 122.8486 96.023) (end 138 96.023) (angle 90) (layer Margin) (width 0.02) (tstamp 5EF0269E))

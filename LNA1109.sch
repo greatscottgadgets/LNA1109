@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "LNAF5Q"
+Title "LNA1109"
 Date "2020-08-05"
 Rev ""
 Comp "Copyright (c) 2014-2020 Great Scott Gadgets <info@greatscottgadgets.com>"

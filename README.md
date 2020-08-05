@@ -1,14 +1,14 @@
-# LNAF5Q
+# LNA1109
 
-LNAF5Q is an in-line SMA Low Noise Amplifier with SAW filter.
+LNA1109 is an in-line SMA Low Noise Amplifier with SAW filter.
 
 ## hardware notes
 
 Schematic and layout files were designed in KiCad, an open source electronic
 design automation package.
 
-This design may be assembled with any SAW filter with a footprint compatible
-with the FAR-F5Q or F6Q series.
+This design may be assembled with any SAW filter with a standard 1.1 x 0.9 mm
+footprint.
 
 The PCB is designed to fit the Crystek SMA-KIT-1.5MF housing.
 
@@ -39,7 +39,7 @@ PCBs of this specification are available from JLCPCB (JLC7628 4-layer 0.8 mm sta
 
 ## frequency options
 
-LNAF5Q may be populated with different components to support various frequency
+LNA1109 may be populated with different components to support various frequency
 bands.
 
 frequency band | U4 part number       | L1-L4 part number | C1-C8 part number
