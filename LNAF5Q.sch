@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "LNAF5Q"
-Date "2020-08-03"
+Date "2020-08-05"
 Rev ""
 Comp "Copyright (c) 2014-2020 Great Scott Gadgets <info@greatscottgadgets.com>"
 Comment1 "Licensed under the CERN-OHL-P v2"
@@ -411,10 +411,10 @@ TX path (filter, no amplification) switched on when power is not applied
 Text Notes 4500 4600 0    60   ~ 0
 RX path (filter and amplification) switched on when power is applied\n
 $Comp
-L Device:C C7
+L Device:C C3
 U 1 1 52F69E98
 P 6200 1900
-F 0 "C7" H 6250 2000 50  0000 L CNN
+F 0 "C3" H 6250 2000 50  0000 L CNN
 F 1 "100pF" H 6250 1800 50  0000 L CNN
 F 2 "gsg-modules:0402" H 6200 1900 50  0001 C CNN
 F 3 "" H 6200 1900 50  0001 C CNN
@@ -425,10 +425,10 @@ F 6 "CAP CER 100PF 50V 5% NP0 0402" H 6200 1900 60  0001 C CNN "Description"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C C8
+L Device:C C4
 U 1 1 52F69EB1
 P 4750 3250
-F 0 "C8" H 4800 3350 50  0000 L CNN
+F 0 "C4" H 4800 3350 50  0000 L CNN
 F 1 "100pF" H 4800 3150 50  0000 L CNN
 F 2 "gsg-modules:0402" H 4750 3250 50  0001 C CNN
 F 3 "" H 4750 3250 50  0001 C CNN
@@ -584,10 +584,10 @@ F 3 "" H 3500 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C3
+L Device:C C8
 U 1 1 5F078CB4
 P 3250 2750
-F 0 "C3" H 3300 2850 50  0000 L CNN
+F 0 "C8" H 3300 2850 50  0000 L CNN
 F 1 "100pF" H 3300 2650 50  0000 L CNN
 F 2 "gsg-modules:0402" H 3250 2750 50  0001 C CNN
 F 3 "" H 3250 2750 50  0001 C CNN
@@ -636,10 +636,10 @@ F 3 "" H 8800 3650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:C C4
+L Device:C C7
 U 1 1 5F0987F0
 P 8700 3900
-F 0 "C4" H 8750 4000 50  0000 L CNN
+F 0 "C7" H 8750 4000 50  0000 L CNN
 F 1 "100pF" H 8750 3800 50  0000 L CNN
 F 2 "gsg-modules:0402" H 8700 3900 50  0001 C CNN
 F 3 "" H 8700 3900 50  0001 C CNN
