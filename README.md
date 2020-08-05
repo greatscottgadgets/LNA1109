@@ -36,3 +36,14 @@ double side silkscreen white
 ```
 
 PCBs of this specification are available from JLCPCB (JLC7628 4-layer 0.8 mm stackup).
+
+## frequency options
+
+LNAF5Q may be populated with different components to support various frequency
+bands.
+
+frequency band | U4 part number       | L1-L4 part number | C1-C8 part number
+---------------|----------------------|-------------------|-------------------
+902-928 MHz    | FAR-F5QA-915M00-M2AK | HK1005R10J-T      | GCM1555C1H470JA16D
+1559-1606 MHz  | F6QA1G582H2JM        | HK100539NJ-T      | GCM1555C1H180JA16D
+2402-2483 MHz  | F6FC2G441H4PE        | HK100527NJ-T      | GCM1555C1H100JA16D

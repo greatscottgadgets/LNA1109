@@ -855,4 +855,6 @@ Wire Wire Line
 	6350 1900 7600 1900
 Wire Wire Line
 	7600 1900 7600 3450
+Text Notes 1400 1950 0    60   ~ 0
+Components are selected for\noperation in the 902-928 MHz\nband. See README.md for\nother options.
 $EndSCHEMATC
