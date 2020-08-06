@@ -42,7 +42,7 @@ PCBs of this specification are available from JLCPCB (JLC7628 4-layer 0.8 mm sta
 LNA1109 may be populated with different components to support various frequency
 bands.
 
-frequency band | U4 part number       | L1-L4 part number | C1-C8 part number
+frequency band | U4 part number       | L1-L4 part number | C1-C6 part number
 ---------------|----------------------|-------------------|-------------------
 902-928 MHz    | FAR-F5QA-915M00-M2AK | HK1005R10J-T      | GCM1555C1H470JA16D
 1559-1606 MHz  | F6QA1G582H2JM        | HK100539NJ-T      | GCM1555C1H180JA16D
